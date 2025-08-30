@@ -1,0 +1,39 @@
+# Bases de datos vectoriales
+chroma_db/
+db/chroma_db/
+
+# Modelos y datos
+data/EstudiosAI/
+!data/EstudiosAI/.gitkeep  # Para mantener la carpeta en Git
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+venv_ia/
+.venv
+.python-version
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.ipynb_checkpoints
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

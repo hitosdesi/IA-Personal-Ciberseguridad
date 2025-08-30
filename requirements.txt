@@ -1,0 +1,12 @@
+langchain
+langchain-chroma
+langchain-community
+ollama
+pypdf
+unstructured[all]
+streamlit
+python-dotenv
+watchdog
+SQLAlchemy
+notebook
+markdown
